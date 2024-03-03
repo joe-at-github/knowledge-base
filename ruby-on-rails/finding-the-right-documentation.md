@@ -12,7 +12,8 @@ While this is a good general approach, you might end up finding the latest versi
 ## What's an alternative?
 
 Thankfully, the Ruby on Rails documentation and guides have a predictable naming convention for their URLs. You can make use of that by writing a script that allows you to detect which version of Ruby on Rails your project is using and open either the documents or the guides, depending on what you are after.
-## Here is how it works
+
+## How?
 
 Declare the following in a file storing custom bash scripts:
 

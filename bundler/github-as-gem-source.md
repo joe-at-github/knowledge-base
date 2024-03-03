@@ -12,7 +12,7 @@ gem 'some_gem'
 
 You can also bundle install a gem hosted on your Github account but not yet published to RubyGems.
 
-# Here is how to do it
+# How?
 
 ## Edit your `Gemfile`
 ```ruby

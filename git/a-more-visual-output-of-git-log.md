@@ -8,7 +8,7 @@ You could simply use `git log` to output the entire git history and manually scr
 
 You can pass extra flags and parameters to `git log` to output a more synthetic view of the git history.
 
-## Here is how it works
+## How?
 
 - Use the `graph` flag to get a visual representation of which branch a commit was introduced by and when and where branches were merged.
 - Use the `pretty` flag to make the output even clearer to read.

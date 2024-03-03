@@ -46,7 +46,7 @@ How?
 
 If you find this format works for you, you can use it consistently and load a template that you can simply fill in.
 
-### Here is how to do it
+### How?
 
 Edit your `~/.gitconfig` file to include the following content:
 

@@ -9,7 +9,7 @@ In this scenario, you will have to manually switch git user details to make sure
 - Encapsulate the config that is shared across all git users in `~/.gitconfig` and create a separate config per git user.
 - Load the relevant configuration based on which folder you are working from.
 
-## Here is how to do it.
+## How?
 
 Let's assume you keep all work-related repositories in `~/work` and personal projects-related repositories in `~/personal-projects`.
 

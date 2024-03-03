@@ -10,7 +10,7 @@ Although `git blame` is a nice and easy way of having an overview of which commi
 
 You can use the `-L` flag with `git log` and pass the method name and path to the relevant file. This will output any commit that ever changed the method, the specific changes to that method, and the commit message.
 
-## Here is how it works
+## How?
 
 ```bash
 git log -L :<method_name>:path/to/file

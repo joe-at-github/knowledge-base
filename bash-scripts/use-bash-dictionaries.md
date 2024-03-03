@@ -19,7 +19,7 @@ function airbrake_project_b {
 ## What's an alternative?
 You can create a dictionary and encapsulate all project ids against their respective project names.
 
-## Here is how it works
+## How?
 
 Create a dictionary.
 
